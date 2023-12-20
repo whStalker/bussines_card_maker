@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545844057515",
+    "project_id": "bussines-card-a16b3",
+    "storage_bucket": "bussines-card-a16b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545844057515:android:02113d13404885362feeee",
+        "android_client_info": {
+          "package_name": "com.example.bussines_card_maker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcKMlVDRq5UBqvFq6BmTlOg3ZdNLAAQJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
